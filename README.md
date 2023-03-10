@@ -10,10 +10,10 @@ This is a desktop application written in C# for movie theaters. The application 
 
 ### Screenshots
 #### Login Screen
-![Alt Text]("https://github.com/ISampathI/movie-theater-app/blob/master/Screenshots/img1.png")
+![Alt Text]("https://github.com/ISampathI/movie-theater-app/blob/master/Screenshots/img1.png?raw=true")
 
 #### Seat Selection Screen
-![Alt Text]("https://github.com/ISampathI/movie-theater-app/blob/master/Screenshots/img3.png")
+![Alt Text]("https://github.com/ISampathI/movie-theater-app/blob/master/Screenshots/img3.png?raw=true")
 
 ### Getting Started
 To get started, clone this repository and open the project in Visual Studio. You will need to have .NET Framework installed on your computer to run the application.
